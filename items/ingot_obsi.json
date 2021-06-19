@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:ingot_obsi",
+      "category": "Items"
+    },
+    "components": {
+      "minecraft:icon": "ingot_obsi",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

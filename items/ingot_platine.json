@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:ingot_platine",
+      "category": "Items"
+    },
+    "components": {
+      "minecraft:icon": "ingot_platine",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

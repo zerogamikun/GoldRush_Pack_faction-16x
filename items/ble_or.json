@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:ble_or",
+      "category": "Items"
+    },
+    "components": {
+      "minecraft:icon": "ble_or",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

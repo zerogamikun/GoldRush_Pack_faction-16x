@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:ingot_cuivre",
+      "category": "Items"
+    },
+    "components": {
+      "minecraft:icon": "ingot_cuivre",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

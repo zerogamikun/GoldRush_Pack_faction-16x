@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:raisin_feu",
+      "category": "Items"
+    },
+
+    "components": {
+      "minecraft:icon": "raisin_feu",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

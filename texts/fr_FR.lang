@@ -1,0 +1,80 @@
+pauseScreen.quit=§4Ne pas clicker
+
+item.iron_pickaxe.name=Pioche en §8Fer
+item.pickaxe_aluminium.name=Pioche en §7aluminium
+item.pickaxe_cuivre.name=Pioche en §6cuivre
+item.pickaxe_or.name=Pioche en §eor
+item.pickaxe_platine.name=Pioche en §8Platine
+item.pickaxe_electrum.name=Pioche en §aelectrum
+
+item.iron_axe.name=Hache en §8Fer
+item.axe_aluminium.name=Hache en §7aluminium
+item.axe_cuivre.name=Hache en §6cuivre
+item.axe_or.name=Hache en §eor
+item.axe_platine.name=Hache en §8Platine
+item.axe_electrum.name=Hache en §aelectrum
+
+item.iron_shovel.name=Pelle en §8Fer
+item.golden_shovel.name=Pelle en §7aluminium
+item.diamond_shovel.name=Pelle en §6cuivre
+item.netherite_shovel.name=Pelle en §eor
+
+item.iron_hoe.name=Houe en §8Fer
+item.golden_hoe.name=Houe en §7aluminium
+item.diamond_hoe.name=Houe en §6cuivre
+item.netherite_hoe.name=Houe en §eor
+
+item.iron_boots.name=Bottes en §8Fer
+item.diamond_boots.name=Bottes en §6cuivre
+item.golden_boots.name=Bottes en §aelectrum
+item.chainmail_boots.name=Bottes en §8Platine
+item.netherite_boots.name=Bottes en §eor
+
+item.iron_leggings.name=Jambières en §8Fer
+item.diamond_leggings.name=Jambières en §6cuivre
+item.golden_leggings.name=Jambières en §aelectrum
+item.chainmail_leggings.name=Jambières en §8Platine
+item.netherite_leggings.name=Jambières en §eor
+
+item.iron_chestplate.name=Plastron en §8Fer
+item.diamond_chestplate.name=Plastron en §6cuivre
+item.golden_chestplate.name=Plastron en §aelectrum
+item.chainmail_chestplate.name=Plastron en §8Platine
+item.netherite_chestplate.name=Plastron en §eor
+
+item.iron_helmet.name=Casque en §8Fer
+item.diamond_helmet.name=Casque en §6cuivre
+item.golden_helmet.name=Casque en §aelectrum
+item.chainmail_helmet.name=Casque en §8Platine
+item.netherite_helmet.name=Casque en §eor
+
+item.iron_sword.name=Epée en §8Fer
+item.diamond_sword.name=Epée en §6cuivre
+item.golden_sword.name=Epée en §aelectrum
+item.chainmail_sword.name=Epée en §8Platine
+item.netherite_sword.name=Epée en §eor
+
+item.iron_ingot.name=L'ingot en §8Fer
+item.cuivre.name=L'ingot en §6cuivre
+item.aluminium.name=L'ingot en §7aluminium
+item.electrum.name=L'ingot en §aelectrum
+item.or.name=L'ingot en §eor
+item.platine.name=L'ingot en §8Platine
+
+tile.diamond_block.name=Bloc en §6cuivre
+tile.emerald_block.name=Bloc en §aelectrum
+tile.gold_block.name=Bloc en §eor
+tile.purpur_block.default.name=Bloc en §8Platine
+tile.lapis_block.name=Bloc en §7aluminium
+
+item.turtle_shell_piece.name=Poudre en §5obsi§0dienne
+item.beetroot_seeds.name=Graines en §5obsi§0dienne
+item.carrot.name=Raisin
+item.netherbrick.name=Alcool brute
+item.glass_bottle.name=Alcool vide
+item.magma_cream.name=Sceau de pétrole
+tile.glazedTerracotta.pink.name=Machine d'aclool
+
+block.minecraft.stonecutter=Trieur d'or
+
+menu.achievements=Succès

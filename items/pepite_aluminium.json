@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:pepite_aluminium",
+      "category": "Items"
+    },
+    "components": {
+      "minecraft:icon": "pepite_aluminium",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}
