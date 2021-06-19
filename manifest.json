@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+"header": {
+  "description": "",
+  "name": "§k§6#§rGoldRush§k§6#",
+  "uuid": "43fc7f2f-dd3b-4d0b-83fe-50ec2744a38b",
+  "version": [ 0, 0, 1 ],
+  "min_engine_version": [ 1, 16, 200 ]
+},
+  "modules": [
+    {
+      "description": "jsp",
+      "type": "resources",
+      "uuid": "80c8cdad-a9c8-42a4-8960-a64e6e84bc48",
+      "version": [ 0, 0, 1 ]
+    }
+  ]
+}
