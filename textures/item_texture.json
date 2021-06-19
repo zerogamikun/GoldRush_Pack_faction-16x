@@ -1,0 +1,279 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_data": {
+    "iron_ingot": {
+      "textures": "textures/items/ingot_fer"
+    },
+    "aluminium": {
+      "textures": "textures/items/ingot_aluminium"
+    },
+    "cuivre": {
+      "textures": "textures/items/ingot_cuivre"
+    },
+    "electrum": {
+      "textures": "textures/items/ingot_electrum"
+    },
+    "platine": {
+      "textures": "textures/items/ingot_platine"
+    },
+    "or": {
+      "textures": "textures/items/ingot_or"
+    },
+    "raisin_feu": {
+      "textures": "textures/items/raisin_feu"
+    },
+    "raisin_foudre": {
+      "textures": "textures/items/raisin_foudre"
+    },
+    "raisin_eau": {
+      "textures": "textures/items/raisin_eau"
+    },
+    "raisin_gele": {
+      "textures": "textures/items/raisin_gele"
+    },
+    "raisin_lumiere": {
+      "textures": "textures/items/raisin_lumiere"
+    },
+    "raisin_moisi": {
+      "textures": "textures/items/raisin_moisi"
+    },
+    "raisin_ombre": {
+      "textures": "textures/items/raisin_ombre"
+    },
+    "raisin_or": {
+      "textures": "textures/items/raisin_or"
+    },
+    "raisin_roche": {
+      "textures": "textures/items/raisin_roche"
+    },
+    "raisin_vent": {
+      "textures": "textures/items/raisin_vent"
+    },
+    "lucky_block": {
+      "textures": "textures/items/lucky_block"
+    },
+    "poudre_cuivre": {
+      "textures": "textures/items/poudre_cuivre"
+    },
+    "poudre_aluminium": {
+      "textures": "textures/items/poudre_aluminium"
+    },
+    "poudre_platine": {
+      "textures": "textures/items/poudre_platine"
+    },
+    "poudre_or": {
+      "textures": "textures/items/poudre_or"
+    },
+    "poudre_electrum": {
+      "textures": "textures/items/poudre_electrum"
+    },
+    "poudre_fer": {
+      "textures": "textures/items/poudre_fer"
+    },
+    "pepite_or": {
+      "textures": "textures/items/pepite_or"
+    },
+    "pepite_electrum": {
+      "textures": "textures/items/pepite_electrum"
+    },
+    "pickaxe": {
+      "textures": [
+        "textures/items/wood_pickaxe",
+        "textures/items/stone_pickaxe",
+        "textures/items/pickaxe_fer",
+        "textures/items/pickaxe_aluminium",
+        "textures/items/pickaxe_cuivre",
+        "textures/items/pickaxe_or"
+      ]
+    },
+    "axe": {
+      "textures": [
+        "textures/items/wood_axe",
+        "textures/items/stone_axe",
+        "textures/items/axe_fer",
+        "textures/items/axe_aluminium",
+        "textures/items/axe_cuivre",
+        "textures/items/axe_or"
+      ]
+    },
+    "hoe": {
+      "textures": [
+        "textures/items/wood_hoe",
+        "textures/items/stone_hoe",
+        "textures/items/hoe_fer",
+        "textures/items/hoe_aluminium",
+        "textures/items/hoe_cuivre",
+        "textures/items/hoe_or"
+      ]
+    },
+    "leggings": {
+      "textures": [
+        "textures/items/leather_leggings",
+        "textures/items/leggings_platine",
+        "textures/items/leggings_fer",
+        "textures/items/leggings_electrum",
+        "textures/items/leggings_cuivre",
+        "textures/items/leggings_or"
+      ]
+    },
+    "shovel": {
+      "textures": [
+        "textures/items/wood_shovel",
+        "textures/items/stone_shovel",
+        "textures/items/shovel_fer",
+        "textures/items/shovel_aluminium",
+        "textures/items/shovel_cuivre",
+        "textures/items/shovel_or"
+      ]
+    },
+    "sword": {
+      "textures": [
+        "textures/items/sword_or",
+        "textures/items/stone_sword",
+        "textures/items/sword_fer",
+        "textures/items/sword_electrum",
+        "textures/items/sword_cuivre",
+        "textures/items/sword_platine"
+      ]
+    },
+    "carrot": {
+      "textures": "textures/items/raisin"
+    },
+    "boots": {
+      "textures": [
+        "textures/items/leather_boots",
+        "textures/items/boots_platine",
+        "textures/items/boots_fer",
+        "textures/items/boots_electrum",
+        "textures/items/boots_cuivre",
+        "textures/items/boots_or"
+      ]
+    },
+    "chestplate": {
+      "textures": [
+        "textures/items/leather_chestplate",
+        "textures/items/chestplate_platine",
+        "textures/items/chestplate_fer",
+        "textures/items/chestplate_electrum",
+        "textures/items/chestplate_cuivre",
+        "textures/items/chestplate_or"
+      ]
+    },
+    "potion_bottle_splash": {
+      "textures": [
+        "textures/items/potion_bottle_splash",
+        "textures/items/alcool_vitesse",
+        "textures/items/potion_bottle_splash_moveSlowdown",
+        "textures/items/potion_bottle_splash_digSpeed",
+        "textures/items/potion_bottle_splash_digSlowdown",
+        "textures/items/potion_bottle_splash_damageBoost",
+        "textures/items/alcool_soin",
+        "textures/items/potion_bottle_splash_harm",
+        "textures/items/potion_bottle_splash_jump",
+        "textures/items/potion_bottle_splash_confusion",
+        "textures/items/alcool_regeneration",
+        "textures/items/potion_bottle_splash_resistance",
+        "textures/items/alcool_feux_resistance",
+        "textures/items/potion_bottle_splash_waterBreathing",
+        "textures/items/alcool_invisible",
+        "textures/items/potion_bottle_splash_blindness",
+        "textures/items/potion_bottle_splash_nightVision",
+        "textures/items/potion_bottle_splash_hunger",
+        "textures/items/potion_bottle_splash_weakness",
+        "textures/items/alcool_poison",
+        "textures/items/potion_bottle_splash_wither",
+        "textures/items/potion_bottle_splash_healthBoost",
+        "textures/items/potion_bottle_splash_absorption",
+        "textures/items/potion_bottle_splash_saturation",
+        "textures/items/potion_bottle_splash_turtleMaster",
+        "textures/items/potion_bottle_splash_slowFall"
+      ]
+    },
+    "seeds_beetroot": {
+      "textures": "textures/items/graine_obsi"
+    },
+    "helmet": {
+      "textures": [
+        "textures/items/leather_helmet",
+        "textures/items/helmet_platine",
+        "textures/items/helmet_fer",
+        "textures/items/helmet_electrum",
+        "textures/items/helmet_cuivre",
+        "textures/items/helmet_or"
+      ]
+    },
+    "coton": {
+      "textures": "textures/items/coton"
+    },
+    "graine_coton": {
+      "textures": "textures/items/graine_coton"
+    },
+    "ingot_aluminium": {
+      "textures": "textures/items/ingot_aluminium"
+    },
+    "ingot_cuivre": {
+      "textures": "textures/items/ingot_cuivre"
+    },
+    "ingot_electrum": {
+      "textures": "textures/items/ingot_electrum"
+    },
+    "ingot_or": {
+      "textures": "textures/items/ingot_or"
+    },
+    "ingot_platine": {
+      "textures": "textures/items/ingot_platine"
+    },
+    "bettrave_or": {
+      "textures": "textures/items/bettrave_or"
+    },
+    "ble_or": {
+      "textures": "textures/items/ble_or"
+    },
+    "carotte_or": {
+      "textures": "textures/items/carotte_or"
+    },
+    "patate_or": {
+      "textures": "textures/items/patate_or"
+    },
+    "poudre_obsi": {
+      "textures": "textures/items/poudre_obsi"
+    },
+    "pepite_cuivre": {
+      "textures": "textures/items/pepite_cuivre"
+    },
+    "pepite_obsi": {
+      "textures": "textures/items/pepite_obsi"
+    },
+    "pepite_platine": {
+      "textures": "textures/items/pepite_platine"
+    },
+    "pepite_aluminium": {
+      "textures": "textures/items/pepite_aluminium"
+    },
+    "ingot_obsi": {
+      "textures": "textures/items/ingot_obsi"
+    },
+    "fondu_or": {
+      "textures": "textures/items/fondu_or"
+    },
+    "brute_or": {
+      "textures": "textures/items/brute_or"
+    },
+    "brute_aluminium": {
+      "textures": "textures/items/brute_aluminium"
+    },
+    "brute_electrum": {
+      "textures": "textures/items/brute_electrum"
+    },
+    "brute_cuivre": {
+      "textures": "textures/items/brute_cuivre"
+    },
+    "brute_platine": {
+      "textures": "textures/items/brute_platine"
+    },
+    "brute_fer": {
+      "textures": "textures/items/brute_fer"
+    }
+  },
+  "texture_name": "atlas.items"
+}
